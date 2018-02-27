@@ -1,0 +1,18 @@
+﻿{
+  "DisableSSL": false,
+  "ConnectionStrings": {
+    "PhonebookConnectionString": "server=(localdb)\\ProjectsV13;Database=PhonebookDb;Integrated Security=true;MultipleActiveResultSets=true;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning"
+    }
+  },
+  "Tokens": {
+    "Key": "a;alabala;jpajpfas;flkjas ;portokala",
+    "Issuer": "http://localhost:49892",
+    "Audience": "users"
+  }
+
+}
